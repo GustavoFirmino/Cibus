@@ -1,2 +1,3 @@
-# Cibus
-Projeto acadêmico com o intuito de criar um site para facilitar a promoção de produtos alimentícios com o menor preço e suas respectivas localidades nos estabelecimentos parceiros.
+# sprint-3.0
+
+Continuação do repositório js-search-bar, nesse projeto foi desenvolvido um sistema de filtros por preço e por tipo,  foram utilizadas as tecnologias Javascript,HTML,CSS e json.
